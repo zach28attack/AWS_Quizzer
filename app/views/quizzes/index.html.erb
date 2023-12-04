@@ -1,3 +1,5 @@
-<div>
-  <h1>Quizzes#Index</h1>
+<div class="index-page">
+  <% @questions.each do |q| %>
+  <%= render "question_card", question: q%>
+  <%end%>
 </div>

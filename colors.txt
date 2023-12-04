@@ -1,0 +1,5 @@
+light purple: #d6d6ed,
+light orange: #f9e7c6,
+mid orange:   #ffc87b,
+dark orange:  #e69c3b,
+dark purple:  #4f557f
